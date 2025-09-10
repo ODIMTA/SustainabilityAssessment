@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following work:"
+title: "New probabilistic multi-criteria model for assessing the integral sustainability of private cars with different propulsion systems"
+authors:
+  - family-names: Cartelle Barros
+    given-names: Juan José
+  - family-names: Cardenal
+    given-names: Jesús
+  - family-names: de la Cruz López
+    given-names: M. Pilar
+  - family-names: del Caño Gochi
+    given-names: Alfredo
+date-released: 2025-09-10
+version: "1.0"
+doi: 10.1016/j.jclepro.2025.xxxxxx
+repository-code: https://github.com/jescarcar/SustainabilityAssessment
+license: MIT
+keywords:
+  - sustainability
+  - private cars
+  - multi-criteria decision analysis
+  - MATLAB
+  - probabilistic modeling
+  - MIVES
+  - Green NCAP
+type: software
