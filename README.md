@@ -4,8 +4,8 @@ This repository contains the MATLAB code and data used in the research article:
 
 **"New probabilistic multi-criteria model for assessing the integral sustainability of private cars with different propulsion systems"**  
 Cartelle Barros, J.J., Cardenal, J., de la Cruz López, M.P., del Caño Gochi, A. (2025)  
-*Journal of Cleaner Production*  
-DOI: [10.1016/j.jclepro.2025.xxxxxx](https://doi.org/10.1016/j.jclepro.2025.xxxxxx)
+
+Currently is under review for publication in the *Journal of Cleaner Production*
 
 ---
 
@@ -22,7 +22,7 @@ DOI: [10.1016/j.jclepro.2025.xxxxxx](https://doi.org/10.1016/j.jclepro.2025.xxxx
 
 If you use this code or model in your research, please cite the following publication:
 
-> Cartelle Barros, J.J., Cardenal, J., de la Cruz López, M.P., del Caño Gochi, A. (2025). *New probabilistic multi-criteria model for assessing the integral sustainability of private cars with different propulsion systems*. Journal of Cleaner Production. [https://doi.org/10.1016/j.jclepro.2025.xxxxxx](https://doi.org/10.1016/j.jclepro.2025.xxxxxx)
+> Cartelle Barros, J.J., Cardenal, J., de la Cruz López, M.P., del Caño Gochi, A. (2025). *New probabilistic multi-criteria model for assessing the integral sustainability of private cars with different propulsion systems*.
 
 You can also cite this repository directly using the `CITATION.cff` file included in the root directory. GitHub will automatically generate a citation in BibTeX, APA, and other formats via the “Cite this repository” button.
 
@@ -30,7 +30,7 @@ You can also cite this repository directly using the `CITATION.cff` file include
 
 ## 🔍 Related Publication
 
-This repository accompanies the research article published in *Journal of Cleaner Production*, which presents a probabilistic multi-criteria decision model applied to private car sustainability assessment. The code implements the MIVES methodology and integrates data from Green NCAP and other sources.
+This repository accompanies the research article submited to the *Journal of Cleaner Production*, which presents a probabilistic multi-criteria decision model applied to private car sustainability assessment. The code implements the MIVES methodology and integrates data from Green NCAP and other sources.
 
 ---
 
