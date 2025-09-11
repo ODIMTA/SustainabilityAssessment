@@ -11,7 +11,6 @@ This paper is currently under review. The reviewers have requested that the mode
 ## Requirements
 
 * MATLAB R2022b or newer.
-* Microsoft Excel 2016 or newer.
 
 ## 
 
