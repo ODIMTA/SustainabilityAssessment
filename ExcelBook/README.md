@@ -14,8 +14,9 @@ Currently is under review for publication in the *Journal of Cleaner Production*
 - `LICENSE`: MIT License for open use and modification.
 - `CITATION.cff`: Citation metadata for academic referencing.
 
-## 📦 Spreadsheets content and instructions
+## 📦 Book content and instructions
 
+The book contains six spreadsheets:
 - `0-Instructions`: instructions to use this Excel tool to assess the sustainability of an indiviadual car model.
 - `1-Weights-Alt1-GreenNCAP`: it allows defining the weights of each criteria, requirement and index when evaluating environmental dimension according to GreenNCAP ratings. It has been set up to mirror the weights proposed in the research article. They can be modified to the convenience of any user.
 - `2-Weights-Alt2-Ecoind99`: it allows define the weights of each criteria, requirement and index when evaluating environmental dimension according to EcoIndicator 99. It has been set up to mirror the weights proposed in the research article. They can be modified to the convenience of any user.
