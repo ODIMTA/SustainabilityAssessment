@@ -1,18 +1,13 @@
 # SustainabilityAssessment
 
-This repository contains the MATLAB code and data used in the research article:
-
-**"New probabilistic multi-criteria model for assessing the integral sustainability of private cars with different propulsion systems"**  
-Cartelle Barros, J.J., Cardenal, J., de la Cruz López, M.P., del Caño Gochi, A. (2025)  
-
-Currently is under review for publication in the *Journal of Cleaner Production*
+This repository contains the MATLAB code and data used in the research article **"New probabilistic multi-criteria model for assessing the integral sustainability of private cars with different propulsion systems"** Cartelle Barros, J.J., Cardenal, J., de la Cruz López, M.P., del Caño Gochi, A. (2025) that is currently is under review for publication in the *Journal of Cleaner Production*
 
 ---
 
 ## 📦 Repository Structure
 
-- `Case 1/` and `Case 2/`: MATLAB scripts for different vehicle scenarios.
-- `ExcelBook/`: Excel book with model implemented to assess the sustainability of individual car model.
+- `Case 1/` and `Case 2/`: MATLAB scripts for analyzing different vehicle scenarios.
+- `ExcelBook/`: Excel workbook implementing the model to assess the sustainability of individual car models.
 - `LICENSE`: MIT License for open use and modification.
 - `CITATION.cff`: Citation metadata for academic referencing.
 
