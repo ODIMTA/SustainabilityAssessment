@@ -21,7 +21,7 @@ The template `SustPrivateCars.xltx` contains seven tabs (spreadsheets):
 - `4-Model-Alt1-GreenNCAP`: Input sheet for values P<sub>j,x</sub> for each index, used to assess a car model's sustainability under the GreenNCAP-based environmental evaluation. Prepopulated with data for the BMW 220i Active Tourer (mild HEV), as presented in the article.
 - `5-Model-Alt2-Ecoind99`: Same structure as the previous sheet, but based on EcoIndicator 99. Also prepopulated with data for the BMW 220i Active Tourer and customizable for other models.
 
----
+## 📦 Workbook content and instructions
 
 The workbook `SustPrivateCars.xlsx` contains six spreadsheets:
 - `0-Instructions`: Guidelines for using the Excel tool to assess the sustainability of a specific car model.
