@@ -1,20 +1,18 @@
 # MATLAB Simulation Model - Case 2
 
-This repository contains the MATLAB code and data used to produce *case 1* results in the research article **"New probabilistic multi-criteria model for assessing the integral sustainability of private cars with different propulsion systems"** Cartelle Barros, J.J., Cardenal, J., de la Cruz López, M.P., del Caño Gochi, A. (2025) that is currently is under review for publication in the *Journal of Cleaner Production*
+This repository contains the MATLAB code and data used to produce *case 2* results in the research article **"New probabilistic multi-criteria model for assessing the integral sustainability of private cars with different propulsion systems"** Cartelle Barros, J.J., Cardenal, J., de la Cruz López, M.P., del Caño Gochi, A. (2025) that is currently is under review for publication in the *Journal of Cleaner Production*
 
 
 ## General description
 
-This repository contains the MATLAB code to reproduce the published results of case 2
-
 It consists of a total of 14 MATLAB functions:
 
-* `FVcontinua.m`: The same function as in the Case 1 folder.
-* `FVdiscreta2.m`: The same function as in the Case 1 folder.
-* `Maletero.m`: The same function as in the Case 1 folder.
+* `FVcontinua.m`: It is an auxiliary function associated with the value functions of continuous indicators (MIVES method). It returns the satisfaction level for a given value function (it is the same function as in the Case 1 folder).
+* `FVdiscreta2.m`: It is an auxiliary function associated with the value functions of discrete indicators (MIVES method). It returns the satisfaction level for a given value function (it is the same function as in the Case 1 folder).
+* `Maletero.m`: It is an auxiliary function associated with the indicator *Boot capacity and comfort (S9)*. It returns the satisfaction level for this indicator. It is the same function as in the Case 1 folder.
 * `betaPERT.m`: Function required to generate pseudo-random numbers according to a beta-PERT distribution.
-* `CocheCombProbabilistaCorrelacionado_28_03_2025_PERT: This function performs the Monte Carlo simulation for a generic conventional vehicle. It contains the data defined in the paper for this type of vehicle, including the corresponding correlations between indicators. It returns the basic statistical parameters for the partial and total sustainability indices, as well as all the indices obtained during the simulation. It also provides the option to generate graphical representations (cumulative probability curves and frequency histograms). At the environmental level, it employs the Green NCAP indicators.
-* `CocheCombProbabilistaCorrelacionado_28_03_2025_PERT_Dincer: The same as the previous function, but in this case using environmental values based on the work of Bicer and Dincer (doi:10.1016/j.resconrec.2018.01.036).
+* `CocheCombProbabilistaCorrelacionado_28_03_2025_PERT.m`: This function performs the Monte Carlo simulation for a generic conventional vehicle. It contains the data defined in the paper for this type of vehicle, including the corresponding correlations between indicators. It returns the basic statistical parameters for the partial and total sustainability indices, as well as all the indices obtained during the simulation. It also provides the option to generate graphical representations (cumulative probability curves and frequency histograms). At the environmental level, it employs the Green NCAP indicators.
+* `CocheCombProbabilistaCorrelacionado_28_03_2025_PERT_Dincer.m`: The same as the previous function, but in this case using environmental values based on the work of Bicer and Dincer (doi:10.1016/j.resconrec.2018.01.036).
 * `CocheElecProbabilistaCorrelacionado_28_03_2025_PERT.m`: The same as function CocheCombProbabilistaCorrelacionado_28_03_2025_PERT, but for a generic EV.
 * `CocheElecProbabilistaCorrelacionado_28_03_2025_PERT_DINCER.m`: The same as the previous function, but in this case using environmental values based on the work of Bicer and Dincer (doi:10.1016/j.resconrec.2018.01.036).
 * `CocheHEVProbabilistaCorrelacionado_28_03_2025_PERT.m`: The same as function CocheCombProbabilistaCorrelacionado_28_03_2025_PERT, but for a generic HEV.

@@ -4,8 +4,6 @@ This repository contains the MATLAB code and data used to produce *case 1* resul
 
 ## General description
 
-This repository contains the MATLAB code to reproduce the published results of case 1
-
 It consists of a total of 11 MATLAB functions:
 
 * `FVcontinua.m`: It is an auxiliary function associated with the value functions of continuous indicators (MIVES method). It returns the satisfaction level for a given value function.
