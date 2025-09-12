@@ -5,8 +5,8 @@ This folder contains an Excel template with seven spreadsheets designed to repro
 ---
 ## 📦 Folder content
 
+- `SustPrivateCars.xltx`: Excel template for assessing the sustainability of an individual car model.
 - `SustPrivateCars.xlsx`: Excel workbook for assessing the sustainability of an individual car model (deprecated).
-- `SustPrivateCars.xltx`: Excel template for assessing the sustainability of an individual car model
 - `LICENSE`: MIT License for open use and modification.
 - `CITATION.cff`: Citation metadata for academic referencing.
 
