@@ -12,7 +12,7 @@ This folder contains an Excel template with seven spreadsheets designed to repro
 
 ## 📦 Template content and instructions
 
-The template contains seven tabs (spreadsheets):
+The template `SustPrivateCars.xltx` contains seven tabs (spreadsheets):
 - `0-Instructions`: Guidelines for using the Excel tool to assess the sustainability of a specific car model.
 - `1-Weights-Alt1-GreenNCAP`: Allows users to define weights for criteria, requirements, and indices when evaluating the environmental dimension based on GreenNCAP ratings. Preconfigured with the weights proposed in the research article, but fully customizable.
 - `2-Weights-Alt2-Ecoind99`: Similar to the previous sheet, but based on EcoIndicator 99 methodology. Also preconfigured and editable.
@@ -23,7 +23,7 @@ The template contains seven tabs (spreadsheets):
 
 ---
 
-The workbook contains six spreadsheets:
+The workbook `SustPrivateCars.xlsx` contains six spreadsheets:
 - `0-Instructions`: Guidelines for using the Excel tool to assess the sustainability of a specific car model.
 - `1-Weights-Alt1-GreenNCAP`: Allows users to define weights for criteria, requirements, and indices when evaluating the environmental dimension based on GreenNCAP ratings. Preconfigured with the weights proposed in the research article, but fully customizable.
 - `2-Weights-Alt2-Ecoind99`: Similar to the previous sheet, but based on EcoIndicator 99 methodology. Also preconfigured and editable.
