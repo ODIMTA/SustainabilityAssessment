@@ -19,14 +19,14 @@ It consists of a total of 11 MATLAB functions:
 * `FVcontinua.m`: It is an auxiliary function associated with the value functions of continuous indicators (MIVES method). It returns the satisfaction level for a given value function.
 * `FVdiscreta2.m`: It is an auxiliary function associated with the value functions of discrete indicators (MIVES method). It returns the satisfaction level for a given value function.
 * `Maletero.m`: It is an auxiliary function associated with the indicator Boot capacity and comfort. It returns the satisfaction level for this indicator.
-* `SostenibilidadBMW\_18\_03\_2025.m`: This function contains the model presented in the paper, as well as the input data for the BMW 220i Active Tourer (mild HEV). When executed, it returns the results presented in the paper for this vehicle: partial and total sustainability indices. At the environmental level, it employs the Green NCAP indicators.
-* `SostenibilidadBMW\_18\_03\_2025\_Dincer.m`: The same as the previous function, but in this case using environmental values based on the work of Bicer and Dincer (doi:10.1016/j.resconrec.2018.01.036).
-* `SostenibilidadOpelAstra\_18\_03\_2025.m`: The same as function SostenibilidadBMW\_18\_03\_2025.m, but for the Opel/Vauxhall Astra 1.5 CDTI (Diesel).
-* `SostenibilidadOpelAstra\_18\_03\_2025\_Dincer.m`: The same as the previous function, but in this case using environmental values based on the work of Bicer and Dincer (doi:10.1016/j.resconrec.2018.01.036).
-* `SostenibilidadSmart3\_18\_03\_2025.m`: The same as function SostenibilidadBMW\_18\_03\_2025.m, but for the Smart #3 Pro (EV).
-* `SostenibilidadSmart3\_18\_03\_2025\_Dincer.m`: The same as the previous function, but in this case using environmental values based on the work of Bicer and Dincer (doi:10.1016/j.resconrec.2018.01.036).
-* `SostenibilidadToyotaYaris\_18\_03\_2025.m`: The same as function SostenibilidadBMW\_18\_03\_2025.m, but for the Toyota Yaris Cross (HEV).
-* `SostenibilidadToyotaYaris\_18\_03\_2025\_Dincer.m`: The same as the previous function, but in this case using environmental values based on the work of Bicer and Dincer (doi:10.1016/j.resconrec.2018.01.036).
+* `SostenibilidadBMW_18_03_2025.m`: This function contains the model presented in the paper, as well as the input data for the BMW 220i Active Tourer (mild HEV). When executed, it returns the results presented in the paper for this vehicle: partial and total sustainability indices. At the environmental level, it employs the Green NCAP indicators.
+* `SostenibilidadBMW_18_03_2025_Dincer.m`: The same as the previous function, but in this case using environmental values based on the work of Bicer and Dincer (doi:10.1016/j.resconrec.2018.01.036).
+* `SostenibilidadOpelAstra_18_03_2025.m`: The same as function SostenibilidadBMW\_18\_03\_2025.m, but for the Opel/Vauxhall Astra 1.5 CDTI (Diesel).
+* `SostenibilidadOpelAstra_18_03_2025_Dincer.m`: The same as the previous function, but in this case using environmental values based on the work of Bicer and Dincer (doi:10.1016/j.resconrec.2018.01.036).
+* `SostenibilidadSmart3_18_03_2025.m`: The same as function SostenibilidadBMW\_18\_03\_2025.m, but for the Smart #3 Pro (EV).
+* `SostenibilidadSmart3_18_03_2025_Dincer.m`: The same as the previous function, but in this case using environmental values based on the work of Bicer and Dincer (doi:10.1016/j.resconrec.2018.01.036).
+* `SostenibilidadToyotaYaris_18_03_2025.m`: The same as function SostenibilidadBMW\_18\_03\_2025.m, but for the Toyota Yaris Cross (HEV).
+* `SostenibilidadToyotaYaris_18_03_2025_Dincer.m`: The same as the previous function, but in this case using environmental values based on the work of Bicer and Dincer (doi:10.1016/j.resconrec.2018.01.036).
 
 
 ## How to cite
