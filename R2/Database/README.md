@@ -1,4 +1,4 @@
-# MATLAB Simulation Model - Case 1
+# MATLAB Simulation Model - Database files
 
 This directory contains the Excel database file with the vehicle data used to feed the model in the case studies presented in the research article **"New probabilistic multi-criteria model for assessing the integral sustainability of private cars with different propulsion systems"** Cartelle Barros, J.J., Cardenal, J., de la Cruz López, M.P., del Caño Gochi, A. (2025) that is currently is under review for publication in the *Journal of Cleaner Production*
 
