@@ -12,9 +12,9 @@ It consists of a total of 9 MATLAB functions:
 * `Maletero.m`: It is an auxiliary function associated with the indicator *Boot capacity and comfort (S9)*. It returns the satisfaction level for this indicator (it is the same function as in the Case 1 folder).
 * `betaPERT.m`: Function required to generate pseudo-random numbers according to a beta-PERT distribution.
 * `CocheCombProbabilistaCorrelacionado_28_03_2025_PERT_DINCER.m`: this function performs the Monte Carlo simulation for a generic conventional vehicle. It contains the data defined in the paper for this type of vehicle, including the corresponding correlations between indicators. It returns the basic statistical parameters for the partial and total sustainability indices, as well as all the indices obtained during the simulation. It also provides the option to generate graphical representations (cumulative probability curves and frequency histograms).
-* `CocheElecProbabilistaCorrelacionado_28_03_2025_PERT_DINCER.m`: The same as function CocheCombProbabilistaCorrelacionado_28_03_2025_PERT_DINCER, but for a generic EV.
-* `CocheHEVProbabilistaCorrelacionado_28_03_2025_PERT_DINCER.m`: The same as function CocheCombProbabilistaCorrelacionado_28_03_2025_PERT_DINCER, but for a generic HEV.
-* `CochePHEVProbabilistaCorrelacionado_28_03_2025_PERT_DINCER.m`: The same as function CocheCombProbabilistaCorrelacionado_28_03_2025_PERT_DINCER, but for a generic PHEV.
+* `CocheElecProbabilistaCorrelacionado_28_03_2025_PERT_DINCER.m`: The same as function `CocheCombProbabilistaCorrelacionado_28_03_2025_PERT_DINCER`, but for a generic EV.
+* `CocheHEVProbabilistaCorrelacionado_28_03_2025_PERT_DINCER.m`: The same as function `CocheCombProbabilistaCorrelacionado_28_03_2025_PERT_DINCER`, but for a generic HEV.
+* `CochePHEVProbabilistaCorrelacionado_28_03_2025_PERT_DINCER.m`: The same as function `CocheCombProbabilistaCorrelacionado_28_03_2025_PERT_DINCER`, but for a generic PHEV.
 * `RepresentacionesGraficas_PERT_DINCER.m`: Function that simultaneously calls functions `CocheCombProbabilistaCorrelacionado_28_03_2025_PERT_DINCER`, `CocheElecProbabilistaCorrelacionado_28_03_2025_PERT_DINCER`, `CocheHEVProbabilistaCorrelacionado_28_03_2025_PERT_DINCER`, and `CochePHEVProbabilistaCorrelacionado_28_03_2025_PERT_DINCER`, generating graphical representations (cumulative probability curves and frequency histograms), as well as numerical results.
 
 
