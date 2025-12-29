@@ -8,8 +8,10 @@ In addition to the MATLAB implementation used to generate the results presented 
 
 ## 📦 Repository Structure
 
-- `R1`: MATLAB scripts and Excel Template for analyzing different vehicle scenarios associated with case studies presented in the first revision of the paper.
-- `R2`: MATLAB scripts and Excel database for analyzing different vehicle scenarios associated with case studies presented in the second revision of the paper.
+- `Case 1/` and `Case 2/`: MATLAB scripts for analyzing different vehicle scenarios.
+- `ExcelTemplate/`: Excel template implementing the model to assess the sustainability of individual car models.
+- `LICENSE`: MIT License for open use and modification.
+- `CITATION.cff`: Citation metadata for academic referencing.
 
 ---
 

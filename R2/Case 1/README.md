@@ -4,19 +4,27 @@ This repository contains the MATLAB code and data used to produce *case 1* resul
 
 ## General description
 
-It consists of a total of 11 MATLAB functions:
+It consists of a total of 19 MATLAB functions:
 
 * `FVcontinua.m`: It is an auxiliary function associated with the value functions of continuous indicators (MIVES method). It returns the satisfaction level for a given value function.
 * `FVdiscreta2.m`: It is an auxiliary function associated with the value functions of discrete indicators (MIVES method). It returns the satisfaction level for a given value function.
 * `Maletero.m`: It is an auxiliary function associated with the indicator Boot capacity and comfort. It returns the satisfaction level for this indicator.
 * `SostenibilidadBMW_18_03_2025.m`: This function contains the model presented in the paper, as well as the input data for the BMW 220i Active Tourer (mild HEV). When executed, it returns the results presented in the paper for this vehicle: partial and total sustainability indices. At the environmental level, it employs the Green NCAP indicators.
 * `SostenibilidadBMW_18_03_2025_Dincer.m`: The same as the previous function, but in this case using environmental values based on the work of Bicer and Dincer (doi:10.1016/j.resconrec.2018.01.036).
-* `SostenibilidadOpelAstra_18_03_2025.m`: The same as function SostenibilidadBMW\_18\_03\_2025.m, but for the Opel/Vauxhall Astra 1.5 CDTI (Diesel).
+* `SostenibilidadBMW_18_03_2025_PETR.m`: The same as the previous function, but in this case using environmental indices based on the work of Petrauskienė, et al. (doi:10.3390/su13020957).
+* `SostenibilidadBMW_18_03_2025_Naranjo.m`: The same as the previous function, but in this case using environmental indices based on the work of Puig-Samper Naranjo, et al. (doi:10.1016/j.jclepro.2021.125883).
+* `SostenibilidadOpelAstra_18_03_2025.m`: This function contains the model presented in the paper, as well as the input data for the Opel/Vauxhall Astra 1.5 CDTI (Diesel). When executed, it returns the results presented in the paper for this vehicle: partial and total sustainability indices. At the environmental level, it employs the Green NCAP indicators.
 * `SostenibilidadOpelAstra_18_03_2025_Dincer.m`: The same as the previous function, but in this case using environmental values based on the work of Bicer and Dincer (doi:10.1016/j.resconrec.2018.01.036).
-* `SostenibilidadSmart3_18_03_2025.m`: The same as function SostenibilidadBMW\_18\_03\_2025.m, but for the Smart #3 Pro (EV).
+* `SostenibilidadOpelAstra_18_03_2025_PETR.m`: The same as the previous function, but in this case using environmental values based on the work of Petrauskienė, et al. (doi:10.3390/su13020957).
+* `SostenibilidadOpelAstra_18_03_2025_Naranjo.m`: The same as the previous function, but in this case using environmental values based on the work of Puig-Samper Naranjo, et al. (doi:10.1016/j.jclepro.2021.125883).
+* `SostenibilidadSmart3_18_03_2025.m`: This function contains the model presented in the paper, as well as the input data for the Smart #3 Pro (EV). When executed, it returns the results presented in the paper for this vehicle: partial and total sustainability indices. At the environmental level, it employs the Green NCAP indicators.
 * `SostenibilidadSmart3_18_03_2025_Dincer.m`: The same as the previous function, but in this case using environmental values based on the work of Bicer and Dincer (doi:10.1016/j.resconrec.2018.01.036).
-* `SostenibilidadToyotaYaris_18_03_2025.m`: The same as function SostenibilidadBMW\_18\_03\_2025.m, but for the Toyota Yaris Cross (HEV).
+* `SostenibilidadSmart3_18_03_2025_PETR.m`: The same as the previous function, but in this case using environmental values based on the work of Petrauskienė, et al. (doi:10.3390/su13020957).
+* `SostenibilidadSmart3_18_03_2025_Naranjo.m`: The same as the previous function, but in this case using environmental values based on the work of Puig-Samper Naranjo, et al. (doi:10.1016/j.jclepro.2021.125883).
+* `SostenibilidadToyotaYaris_18_03_2025.m`: This function contains the model presented in the paper, as well as the input data for the Toyota Yaris Cross (HEV). When executed, it returns the results presented in the paper for this vehicle: partial and total sustainability indices. At the environmental level, it employs the Green NCAP indicators.
 * `SostenibilidadToyotaYaris_18_03_2025_Dincer.m`: The same as the previous function, but in this case using environmental values based on the work of Bicer and Dincer (doi:10.1016/j.resconrec.2018.01.036).
+* `SostenibilidadToyotaYaris_18_03_2025_PETR.m`: The same as the previous function, but in this case using environmental values based on the work of Petrauskienė, et al. (doi:10.3390/su13020957).
+* `SostenibilidadToyotaYaris_18_03_2025_Naranjo.m`: The same as the previous function, but in this case using environmental values based on the work of Puig-Samper Naranjo, et al. (doi:10.1016/j.jclepro.2021.125883).
 
 
 ## How to cite
