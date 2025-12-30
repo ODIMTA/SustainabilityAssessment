@@ -1,6 +1,6 @@
 # MATLAB Simulation Model - Case 2 - Puig-Samper Naranjo, et al.
 
-This directory contains the Matlab code used to perform the Monte Carlo simulations that estimate integral and partial sustainability indices for conventional, hybrid, plug-in hybrid, and battery-electric vehicles according to Puig-Samper Naranjo, et al. (doi:10.1016/j.jclepro.2021.125883) environmental sub-model, as they are presented in the second revision of the paper **"New probabilistic multi-criteria model for assessing the integral sustainability of private cars with different propulsion systems"** Cartelle Barros, J.J., Cardenal, J., de la Cruz López, M.P., del Caño Gochi, A. (2026) that is currently is under review for publication in the *Journal of Cleaner Production*.
+This directory contains the Matlab code used to perform the Monte Carlo simulations that estimate integral and partial sustainability indices for conventional, hybrid, plug-in hybrid, and battery-electric vehicles according to Puig-Samper Naranjo, et al. (doi:10.1016/j.jclepro.2021.125883) environmental sub-model, as they are presented in the second revision of the paper **"New probabilistic multi-criteria model for assessing the integral sustainability of private cars with different propulsion systems"** Cartelle Barros, J.J., Cardenal, J., de la Cruz López, M.P., del Caño Gochi, A. (2026) that is currently under review for publication in the *Journal of Cleaner Production*.
 
 ## General description
 

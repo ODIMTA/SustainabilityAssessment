@@ -1,6 +1,6 @@
 # Excel Simulation Model
 
-This folder contains an Excel template with seven spreadsheets designed to reproduce the results presented in the research article: "A New Probabilistic Multi-Criteria Model for Assessing the Integral Sustainability of Private Cars with Different Propulsion Systems" by Cartelle Barros, J.J., Cardenal, J., de la Cruz López, M.P., and del Caño Gochi, A. (2025), currently under review for publication in the Journal of Cleaner Production.
+This folder contains an Excel template with seven spreadsheets designed to reproduce the results presented in the research article: "A New Probabilistic Multi-Criteria Model for Assessing the Integral Sustainability of Private Cars with Different Propulsion Systems" by Cartelle Barros, J.J., Cardenal, J., de la Cruz López, M.P., and del Caño Gochi, A. (2025), that is currently under review for publication in the Journal of Cleaner Production.
 
 ---
 ## 📦 Folder content
